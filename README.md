@@ -24,7 +24,7 @@ Building a real-time platform with:
 - **Incident Response Module**: Manages incidents, playbooks, recovery actions, and logs using an efficient database schema.
 - **Technology Stack**: Flask, PostgreSQL, Docker, and Kubernetes.
 - **Goal**: Provide detailed risk categorization and automated response to potential threats.
-- Check out the [repository here](https://github.com/vineethchava/threat-intelligence-platform).
+- Check out the [repository here](https://github.com/RTTIP/real_time_threat_intelligence/tree/Incident-Response%2C-Disaster-Recovery%2C-and-Business-Continuity).
 
 ### 📰 Fake News Classification
 - **Objective**: Build a classifier using LSTM to detect fake news.
