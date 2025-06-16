@@ -1,6 +1,8 @@
 # 💫 About Me
 
-👋 Hi, I'm **Vineeth Chava**, a passionate Software Engineer currently pursuing my Master’s in Computer Science at the University of Missouri-Kansas City. With 3.5+ years of experience in building scalable back-end systems and web applications, I specialize in microservices, cloud-based architectures, and API development.
+👋 Hi, I'm **Vineeth Chava**, a Full Stack Software Engineer. I recently graduated with a **4.0 GPA** in Master’s in Computer Science from the University of Missouri-Kansas City. With 5+ years of professional experience, I specialize in enterprise-level application development, cloud-native architectures, scalable API-driven systems, and AI-powered solutions.
+
+I’m passionate about integrating AI/ML technologies into full-stack systems to build smarter, more efficient software products.
 
 ---
 
@@ -13,44 +15,48 @@
 
 ## 💻 Tech Stack
 
-**Languages:** Python, Java, JavaScript, SQL, C/C++  
-**Frameworks & Libraries:** React, Angular, Node.js, Flask, Django, Spring Boot, FastAPI  
-**Cloud Platforms:** AWS, IBM Cloud, Google Cloud Platform  
-**DevOps Tools:** Docker, Kubernetes, Jenkins, Maven, TravisCI  
-**Databases:** MySQL, PostgreSQL, MongoDB, IBM Cloudant
+**Languages:** C#, .NET 8/6/5, ASP.NET Core, JavaScript, TypeScript, Python, SQL, T-SQL, LINQ, Java  
+**Front-End:** React.js, Angular 10-15, Blazor (Server & WebAssembly), Bootstrap, HTML5, CSS3  
+**Back-End & APIs:** ASP.NET Core Web API, Entity Framework Core, ADO.NET, Node.js, RESTful APIs, Microservices  
+**Databases:** SQL Server, PostgreSQL, MySQL, Oracle, MongoDB, Azure Cosmos DB  
+**Cloud Platforms:** Microsoft Azure (App Services, Functions, Blob, SQL), AWS (Lambda, EC2, S3, RDS, CloudFormation, SNS/SQS)  
+**DevOps & Tools:** Docker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins, Visual Studio, VS Code, JIRA  
+**Testing:** xUnit, NUnit, Postman, Swagger UI  
+**AI/ML Integration:** GPT, Microsoft Cognitive Services, GANs, VAEs, NLP
 
 ---
 
 ## 🚀 Featured Projects
 
-### **Babel Fish**  
-- Developed a universal translator using LLMs integrated with IBM Watson & Hugging Face.
-- Achieved 95% translation accuracy with advanced Retrieval-Augmented Generation techniques.
+### **Digital Banking Platform (CGI Inc.)**  
+- Developed RESTful APIs in ASP.NET Core (.NET 6) for customer onboarding, transactions, and support workflows.
+- Built React.js & TypeScript frontends with Redux for dynamic user interfaces.
+- Deployed AWS Lambda functions and integrated S3 for background processing and secure file storage.
+- Optimized PostgreSQL queries using Dapper ORM, improving performance by 30%.
 
-### **Little Lemon**  
-- Created a Django-based system for restaurant operations with secure REST APIs.
-- Deployed containerized applications on AWS for enhanced performance and scalability.
-
-### **Auto Insight**  
-- Built a cloud-hosted car dealership platform with real-time data processing and sentiment analysis.
-- Utilized Docker and Kubernetes for efficient deployment and scaling.
+### **Healthcare Claims Processing Portal (Infosys Ltd.)**  
+- Designed and developed RESTful APIs with ASP.NET Core Web API for insurance claims lifecycle.
+- Built dashboards with Angular 10 and Blazor Server for efficient claims management.
+- Implemented Azure App Services, Blob Storage, Key Vault for cloud-hosted deployment.
+- Reduced claims processing time by 25% through optimized workflows.
 
 ---
 
 ## 🛠️ Highlights
 
-- **Cloud-Native Solutions:** Engineered microservices deployed on AWS, improving system reliability and cost-efficiency.
-- **Performance Optimization:** Enhanced API performance and database query speed, reducing latency significantly.
-- **Real-Time Applications:** Designed data-driven applications with real-time analytics and event-driven architectures.
-- **Cross-Platform Development:** Delivered responsive web apps with React and Angular for diverse user experiences.
+- **Enterprise Full Stack Development:** Delivered scalable applications across banking, healthcare, and finance domains.
+- **Cloud-Native Solutions:** Architected and deployed microservices on Azure & AWS improving scalability and resilience.
+- **AI-Powered Applications:** Integrated GPT-based models, Microsoft Cognitive Services, and NLP pipelines for smarter features.
+- **Performance Optimization:** Enhanced database queries, API response times, and reduced latency across critical workflows.
+- **End-to-End Automation:** Automated CI/CD pipelines using GitHub Actions, Azure DevOps, and Docker.
 
 ---
 
 ## 🌟 Goals
 
-- Build impactful, scalable software solutions.
-- Contribute to open-source projects.
-- Collaborate with global tech communities to drive innovative development.
+- Build cutting-edge enterprise applications blending full-stack and AI capabilities.
+- Contribute to open-source projects and tech communities.
+- Drive performance-oriented scalable system designs.
 
 ---
 
@@ -62,5 +68,4 @@
 
 ---
 
-**Let's collaborate to create impactful software solutions! 🚀**
-
+**Let’s build something amazing together! 🚀**
